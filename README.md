@@ -38,5 +38,6 @@ else: #De lo contrario encuentra el menor o el mayor
 
 
 ![image](https://github.com/user-attachments/assets/9be8f47d-f95f-4b75-8215-f81cebc6bcbf)
-![image](https://github.com/user-attachments/assets/e6d3b11e-11d6-48d8-b47f-8f1edc871c7c)
+![image](https://github.com/user-attachments/assets/22f35e95-a487-4308-af1e-9eed9119f969)
+
 
